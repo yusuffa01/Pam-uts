@@ -1,5 +1,11 @@
 # Pam-uts
 tugas
+nama aplikasi KalKulatorBMI.apk
+
+aplikasi kalkulator bmi untuk mengukur berat badan yang ideal yang diukur melalui berat badan dan tinggi badan dengan rumus berat badan dibagi dengan tinggi badan dikali tinggi badan.
+
+modul yang dipakai "@react-navigation/native": "^6.0.13",
+                   "@react-navigation/native-stack": "^6.9.1",
 
 menekan link aplikasi yang telah dicantumkan
 Mendownload aplikasi
